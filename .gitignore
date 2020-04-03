@@ -1,0 +1,9 @@
+/**/.terraform/
+/.idea/
+
+/**/*.tfvars
+/**/terraform.tfstate
+/**/terraform.tfstate.backup
+/.envrc
+/deployments/backend.tf
+/service_account_key.json
