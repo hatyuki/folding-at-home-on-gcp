@@ -48,6 +48,7 @@ variable fahconfig {
   default = { /*
     username = "Anonymouse"
     team     = 0
+    passkey  = ""
     power    = "medium" // light, medium or full
   */ }
 }

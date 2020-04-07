@@ -9,6 +9,7 @@ locals {
   fahconfig = merge({
     username   = "Anonymouse"
     team       = 0
+    passkey    = ""
     power      = "medium"
   }, var.fahconfig)
 }

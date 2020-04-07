@@ -9,6 +9,7 @@ cat << CONFIG > /etc/fahclient/config.xml
 <config>
   <user value='${username}'/>
   <team value='${team}'/>
+  <passkey value='${passkey}' />
   <power value='${power}'/>
   <gpu value='false'/>
   <smp value='true'/>
